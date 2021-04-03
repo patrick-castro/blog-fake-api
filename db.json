@@ -1,0 +1,20 @@
+{
+  "blogs": [
+    {
+      "title": "Lately",
+      "content": "Ive been losing sleep oasdfsdfsadf",
+      "userId": "106124254063586464851",
+      "authorFirstName": "Patrick Antonio",
+      "authorLastName": "Castro",
+      "id": 13
+    },
+    {
+      "title": "Henlo darkness my old friend",
+      "content": "*O*",
+      "userId": "106124254063586464851",
+      "authorFirstName": "Patrick Antonio",
+      "authorLastName": "Castro",
+      "id": 14
+    }
+  ]
+}
